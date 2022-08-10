@@ -22,3 +22,12 @@ nodejs -v
 v10.19.0
 
 `sudo apt install npm`
+
+# Que es Scolcoin Smart Chain
+es la segunda capa de Scolcoin donde se almacenan los contratos inteligentes y trazabilidades!
+
+### Como se almacenan:
+Por medio de un Gas llamado Scol Wei que se cambia por Scolcoin SCOL Nativo o sus token.
+
+### Que se puede almacenar:
+Se trabaja con Goland y Solidity para crear Smart Contract, puedes crear trazabilidades, token, NFT, DAO, etc.. es similar que ethereum la diferencia es que se tranza con Scolcoin una blockchain 100% Colombiana!
